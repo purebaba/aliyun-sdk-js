@@ -239,14 +239,17 @@
 					"AndroidOpenUrl": {
 						"type": "string"
 					},
-					"AndroidXiaoMiActivity": {
+					"AndroidPopupActivity": {
 						"type": "string"
 					},
-					"AndroidXiaoMiNotifyTitle": {
+					"AndroidPopupTitle": {
 						"type": "string"
 					},
-					"AndroidXiaoMiNotifyBody": {
+					"AndroidPopupBody": {
 						"type": "string"
+					},
+					"AndroidRemind": {
+						"type": "boolean"
 					},
 					"AndroidMusic": {
 						"type": "string"
